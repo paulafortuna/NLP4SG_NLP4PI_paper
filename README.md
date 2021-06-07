@@ -1,4 +1,4 @@
-# NLP4SG_NLP4PI_paper
+# NLP4SG - Cartography of Natural Language Processing for Social Good:Definitions, Statistics and White Spots
 
 This repository aims at putting together all the projects used to support the paper (in case you reuse this code or keywords, please cite it):
 
